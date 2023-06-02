@@ -1,1 +1,1 @@
-This is a readme for Git.
+This is a readme for Git - EDITED.
